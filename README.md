@@ -1,2 +1,1 @@
-# DocService
-A Documentation Helper Windows App
+# Sm.Ui.Core
